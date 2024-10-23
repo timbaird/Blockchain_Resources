@@ -1,0 +1,125 @@
+/*
+----------------------------
+CHECKING EXCHANGES FOR PAIRS BASED ON
+POSWBTC: 0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6
+-----------------------------
+POSWBTC-USDC on QUICKSWAP pair contract address 0xf8889c3b46B26153887dE2E5b41331af60d156F1
+POSWBTC-USDC pair NOT available on SUSHISWAP
+POSWBTC-USDC pair NOT available on APESWAP
+POSWBTC-USDC pair NOT available on DYFN
+POSWBTC-USDC pair NOT available on JETSWAP
+POSWBTC-USDC pair NOT available on ELK
+POSWBTC-USDC pair NOT available on POLYCAT
+POSWBTC-USDC on UNISWAP pair contract address 0xe8C9C24Bef8483Ea8C210474771460B349880e4f
+-----------------------------
+
+POSWBTC-POSUSDCE on QUICKSWAP pair contract address 0xF6a637525402643B0654a54bEAd2Cb9A83C8B498
+POSWBTC-POSUSDCE on SUSHISWAP pair contract address 0xD02b870c556480491c70AaF98C297fddd93F6f5C
+POSWBTC-POSUSDCE on APESWAP pair contract address 0x237ac473Ac0AE4551019d9298A4118b3144F26A8
+POSWBTC-POSUSDCE on DYFN pair contract address 0xC0ab47B79bC66F98e5C9eE5FF386a7150D3F4174
+POSWBTC-POSUSDCE on JETSWAP pair contract address 0xcda2aBb19DB926d242F871C87B81575DFf7644F2
+POSWBTC-POSUSDCE on ELK pair contract address 0x85caa487c93Bf350846Affe19fCf8EBfdCeE202a
+POSWBTC-POSUSDCE on POLYCAT pair contract address 0x5A83F4bf297f716e55c7A658a88d992756342c25
+POSWBTC-POSUSDCE on UNISWAP pair contract address 0x9709d28dD2D3fA1A50F40B23d8AA26c854299082
+-----------------------------
+
+POSWBTC-APOLUSDC pair NOT available on QUICKSWAP
+POSWBTC-APOLUSDC pair NOT available on SUSHISWAP
+POSWBTC-APOLUSDC pair NOT available on APESWAP
+POSWBTC-APOLUSDC pair NOT available on DYFN
+POSWBTC-APOLUSDC pair NOT available on JETSWAP
+POSWBTC-APOLUSDC pair NOT available on ELK
+POSWBTC-APOLUSDC pair NOT available on POLYCAT
+POSWBTC-APOLUSDC pair NOT available on UNISWAP
+-----------------------------
+
+POSWBTC-AMUSDC pair NOT available on QUICKSWAP
+POSWBTC-AMUSDC on SUSHISWAP pair contract address 0xbE2c88f528B693B88cea07dA23491107948D2DDa
+POSWBTC-AMUSDC pair NOT available on APESWAP
+POSWBTC-AMUSDC pair NOT available on DYFN
+POSWBTC-AMUSDC pair NOT available on JETSWAP
+POSWBTC-AMUSDC pair NOT available on ELK
+POSWBTC-AMUSDC pair NOT available on POLYCAT
+POSWBTC-AMUSDC pair NOT available on UNISWAP
+-----------------------------
+
+POSWBTC-APOLUSDT pair NOT available on QUICKSWAP
+POSWBTC-APOLUSDT pair NOT available on SUSHISWAP
+POSWBTC-APOLUSDT pair NOT available on APESWAP
+POSWBTC-APOLUSDT pair NOT available on DYFN
+POSWBTC-APOLUSDT pair NOT available on JETSWAP
+POSWBTC-APOLUSDT pair NOT available on ELK
+POSWBTC-APOLUSDT pair NOT available on POLYCAT
+POSWBTC-APOLUSDT pair NOT available on UNISWAP
+-----------------------------
+
+POSWBTC-AMUSDT pair NOT available on QUICKSWAP
+POSWBTC-AMUSDT pair NOT available on SUSHISWAP
+POSWBTC-AMUSDT pair NOT available on APESWAP
+POSWBTC-AMUSDT pair NOT available on DYFN
+POSWBTC-AMUSDT pair NOT available on JETSWAP
+POSWBTC-AMUSDT pair NOT available on ELK
+POSWBTC-AMUSDT pair NOT available on POLYCAT
+POSWBTC-AMUSDT pair NOT available on UNISWAP
+-----------------------------
+
+POSWBTC-POSUSDT on QUICKSWAP pair contract address 0x7847350B4C25f564B5a165389fDCeEA99e1ED3BD
+POSWBTC-POSUSDT on SUSHISWAP pair contract address 0xb1dD5322BE07fb2A40ae7fbbBac96781Ca2B0602
+POSWBTC-POSUSDT on APESWAP pair contract address 0xcDbcc1Ac4d4e18FB1f2f2D604144Fd33E77cdA52
+POSWBTC-POSUSDT pair NOT available on DYFN
+POSWBTC-POSUSDT on JETSWAP pair contract address 0x7641d6b873877007697D526EF3C50908779a6993
+POSWBTC-POSUSDT pair NOT available on ELK
+POSWBTC-POSUSDT on POLYCAT pair contract address 0x0509083749716B68f0fdB490a59Ca62F2cfFEbB9
+POSWBTC-POSUSDT on UNISWAP pair contract address 0xC8F1932c523a0D2b017E4893F1D79945CA0789cA
+-----------------------------
+
+POSWBTC-WETH on QUICKSWAP pair contract address 0xdC9232E2Df177d7a12FdFf6EcBAb114E2231198D
+POSWBTC-WETH on SUSHISWAP pair contract address 0xE62Ec2e799305E0D367b0Cc3ee2CdA135bF89816
+POSWBTC-WETH on APESWAP pair contract address 0x8B6631324D4Bb1759F708DdE77e93ba898BB58c4
+POSWBTC-WETH on DYFN pair contract address 0x39eAA90a70E8FdC04E1f63Db04e1c62c9aCe0641
+POSWBTC-WETH on JETSWAP pair contract address 0x173E90f2a94Af3b075DeEC7e64Df4d70EfB4Ac3D
+POSWBTC-WETH pair NOT available on ELK
+POSWBTC-WETH on POLYCAT pair contract address 0xbbBd54c1CD649288d2e584917778eEccD8D8254d
+POSWBTC-WETH on UNISWAP pair contract address 0x5d7CCa95F25D5DddBB0cD125f00164DdE0a130a0
+-----------------------------
+
+POSWBTC-APOLWETH pair NOT available on QUICKSWAP
+POSWBTC-APOLWETH pair NOT available on SUSHISWAP
+POSWBTC-APOLWETH pair NOT available on APESWAP
+POSWBTC-APOLWETH pair NOT available on DYFN
+POSWBTC-APOLWETH pair NOT available on JETSWAP
+POSWBTC-APOLWETH pair NOT available on ELK
+POSWBTC-APOLWETH pair NOT available on POLYCAT
+POSWBTC-APOLWETH pair NOT available on UNISWAP
+-----------------------------
+
+POSWBTC-AMWETH pair NOT available on QUICKSWAP
+POSWBTC-AMWETH pair NOT available on SUSHISWAP
+POSWBTC-AMWETH pair NOT available on APESWAP
+POSWBTC-AMWETH pair NOT available on DYFN
+POSWBTC-AMWETH pair NOT available on JETSWAP
+POSWBTC-AMWETH pair NOT available on ELK
+POSWBTC-AMWETH pair NOT available on POLYCAT
+POSWBTC-AMWETH pair NOT available on UNISWAP
+-----------------------------
+
+POSWBTC-APOLWBTC on QUICKSWAP pair contract address 0x9647885E9d2FAe3346BE24d61dB86fDB6f690Ccf
+POSWBTC-APOLWBTC pair NOT available on SUSHISWAP
+POSWBTC-APOLWBTC pair NOT available on APESWAP
+POSWBTC-APOLWBTC pair NOT available on DYFN
+POSWBTC-APOLWBTC pair NOT available on JETSWAP
+POSWBTC-APOLWBTC pair NOT available on ELK
+POSWBTC-APOLWBTC pair NOT available on POLYCAT
+POSWBTC-APOLWBTC pair NOT available on UNISWAP
+-----------------------------
+
+POSWBTC-AMWBTC pair NOT available on QUICKSWAP
+POSWBTC-AMWBTC pair NOT available on SUSHISWAP
+POSWBTC-AMWBTC pair NOT available on APESWAP
+POSWBTC-AMWBTC pair NOT available on DYFN
+POSWBTC-AMWBTC pair NOT available on JETSWAP
+POSWBTC-AMWBTC pair NOT available on ELK
+POSWBTC-AMWBTC pair NOT available on POLYCAT
+POSWBTC-AMWBTC pair NOT available on UNISWAP
+-----------------------------
+*/
